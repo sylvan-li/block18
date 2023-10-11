@@ -49,9 +49,9 @@ expect concatOdds([1,3,4,8,5], "hello world!") to be an error
 expect arguments of concatOdds to be arrays */
 
 //#3 
-/*A shopping cart checkout feature that allows a user to check out as a guest (without an account), or as a logged-in user. They should be allowed to do either, but should be asked if they want to create an account or log in if they check out as a guest.
+/*A shopping cart checkout feature that allows a user to check out as a guest (without an account), or as a logged-in user. They should be allowed to do either, but should be asked if they want to create an account or log in if they check out as a guest. */
 
-
+/*
 User adds item to cart 
 - user clicks checkout feature
 - if no items in shopping cart - prompt "there are no items " and direct to browse
