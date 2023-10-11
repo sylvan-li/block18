@@ -77,3 +77,4 @@ if guest chooses to log in to account
 - verify that user is redirected to payment page 
 - confirm payment 
 - complete checkout process 
+*/
